@@ -1,0 +1,24 @@
+{
+  "name": "USA Coin",
+  "symbol": "USAC",
+  "description": "USA Coin – a high-energy Solana memecoin powered by Trump & Musk, mixing politics, memes and degen freedom on-chain.",
+  "image": "https://raw.githubusercontent.com/BTCro12/USA-Coin/main/file_00000000164072468966c5fc64f35e21.png",
+  "attributes": [
+    {
+      "trait_type": "Leaders",
+      "value": "Trump & Musk"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "USA & Freedom"
+    }
+  ]
+}
